@@ -1,0 +1,5 @@
+pip install torch
+pip install graphviz
+pip install matplotlib
+pip install numpy
+pip install jupyter
